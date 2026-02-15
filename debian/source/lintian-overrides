@@ -1,0 +1,5 @@
+python-typed-ast source: file-without-copyright-information
+python-typed-ast source: no-debian-changes
+python-typed-ast source: source-contains-prebuilt-windows-binary
+python-typed-ast source: source-is-missing
+python-typed-ast source: source-package-encodes-python-version
